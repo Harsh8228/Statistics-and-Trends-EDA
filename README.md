@@ -5,4 +5,3 @@ This is an exploratory data analysis of EV_charging_patterns dataset to find tre
 2. Charging patterns ( time, day, duration, charging rate)
 3. location
 
-T
